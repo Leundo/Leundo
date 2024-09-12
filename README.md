@@ -1,4 +1,4 @@
-I am nothing, and Leundo serves as a signifier. My website is [here](https://www.lzzet.com) (Chinese only).
+I am nothing, and Leundo serves as a signifier.
 
 > “I AM NOTHING. Nothing but a pale shape, silhouetted that evening against the café terrace, waiting for the rain to stop; the shower had started when Hutte left me.”
 >
