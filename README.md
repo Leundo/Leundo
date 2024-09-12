@@ -1,4 +1,4 @@
-I AM NOTHING, Leundo as a signifier. My website is [here](https://www.lzzet.com) (Chinese only).
+I am nothing, and Leundo serves as a signifier. My website is [here](https://www.lzzet.com) (Chinese only).
 
 > “I AM NOTHING. Nothing but a pale shape, silhouetted that evening against the café terrace, waiting for the rain to stop; the shower had started when Hutte left me.”
 >
@@ -22,4 +22,3 @@ I AM NOTHING, Leundo as a signifier. My website is [here](https://www.lzzet.com)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
