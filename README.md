@@ -32,7 +32,7 @@ These pinballs struck a heart in a bleak season, and could ricochet away someday
 
 - Onsplayer+
 
-  *An macOS application to run visual novels written with NScripter.*
+  An macOS application for running visual novels written with NScripter. Scheduled release on iOS.
 
 ## Contact
 
