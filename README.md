@@ -18,6 +18,12 @@ These pinballs struck a heart in a bleak season, and could ricochet away someday
 >
 > That autumn Sunday evening it was pinball that claimed my attention. 
 
+## Projects
+
+- Onsplayer+
+
+  A macOS application for running visual novels written with NScripter. Scheduled release on iOS.
+
 ## Education 
 
 - MSc in Computer Technology, 2025
@@ -27,12 +33,6 @@ These pinballs struck a heart in a bleak season, and could ricochet away someday
 - BSc in Computer Science and Technology, 2022
 
   *Harbin Institute of Technology, Shenzhen*
-
-## Projects
-
-- Onsplayer+
-
-  An macOS application for running visual novels written with NScripter. Scheduled release on iOS.
 
 ## Contact
 
