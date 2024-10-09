@@ -1,8 +1,8 @@
 ## Am
 
-Is Leundo. Having lived in Shenzhen for four years, they earned a Bachelor's degree, and have now relocated to Nanjing, pursuing a Master's degree.
+Are Leundo. Having lived in Shenzhen for four years, they earned a Bachelor's degree, and have now relocated to Nanjing, pursuing a Master's degree.
 
-Merely pursuing passions. A mild remedy for emptiness and absurdity might lie in unceasing exploration and creation.
+Merely pursuing passions. A mild remedy for emptiness and absurdity might reside in unceasing exploration and creation.
 
 ## Pinballs
 
@@ -18,11 +18,11 @@ These pinballs struck a heart in a bleak season, and could ricochet away someday
 >
 > That autumn Sunday evening it was pinball that claimed my attention. 
 
-## Projects
+## Cources
 
 - Onsplayer+
 
-  A macOS application for running visual novels written with NScripter. Scheduled release on iOS.
+  An macOS application for running visual novels written with NScripter. Scheduled release on iOS.
 
 ## Education 
 
